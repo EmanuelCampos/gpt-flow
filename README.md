@@ -5,7 +5,7 @@ We're using [React Flow](https://reactflow.dev) + GPT-4 to make this possible, t
 ![Screenshoot showing a diagram, a prompt field and api key field](public/screenshot.png)
 
 ## Getting Started
-To get started with AI Diagrammer, you will need to install the necessary dependencies and run the application locally.
+To get started with gpt-flow, you will need to install the necessary dependencies and run the application locally.
 
 ## Prerequisites
 - Node.js v14.x.x or higher
