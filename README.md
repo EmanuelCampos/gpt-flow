@@ -1,6 +1,8 @@
 ## Welcome to gpt-flow
 
-We're using [React Flow]("https://reactflow.dev/") + GPT-4 to make this possible, the app offers a user-friendly interface for users to input their ideas, concepts, or data, which is then processed by AI to create visually engaging and informative diagrams.
+We're using [React Flow](https://reactflow.dev) + GPT-4 to make this possible, the app offers a user-friendly interface for users to input their ideas, concepts, or data, which is then processed by AI to create visually engaging and informative diagrams.
+
+![Screenshoot showing a diagram, a prompt field and api key field](oublic/screenshot.png)
 
 ## Getting Started
 To get started with AI Diagrammer, you will need to install the necessary dependencies and run the application locally.

@@ -14,9 +14,8 @@ Here's the expected format of your solution, represented in a clean, well-struct
     "edges": [
         { "id": "e1-2", "source": "1", "target": "2" },
         { "id": "e2-3", "source": "2", "target": "3" },
-        // Outline all connections within the system, each edge with a unique ID, and clear source and target
     ],
 }
 
-DON'T include any explanations or unnecessary annotations in your responses, focusing purely on delivering the design in the specified format.
+Never include any explanations or annotations in your responses, focusing purely on delivering the design in the specified format.
 `;
